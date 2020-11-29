@@ -1,0 +1,51 @@
+{
+  "name": "nuxt-express-mongo-starter",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "owalid <othmane.el.ayadi@gmail.com>",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "yarn lint:js",
+    "lint:js": "eslint --ext .js,.vue --ignore-path .eslintignore ."
+  },
+  "pre-commit": [
+    "lint"
+  ],
+  "dependencies": {
+    "@nuxtjs/axios": "5.12.2",
+    "@nuxtjs/dotenv": "1.4.1",
+    "@nuxtjs/fontawesome": "1.1.2",
+    "@nuxtjs/pwa": "3.0.2",
+    "@nuxtjs/sitemap": "^2.4.0",
+    "@nuxtjs/vuetify": "1.11.2",
+    "body-parser": "1.19.0",
+    "cookieparser": "^0.1.0",
+    "cors": "2.8.5",
+    "helmet": "4.1.0",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.10.18",
+    "nuxt": "latest",
+    "nuxt-i18n": "6.14.1",
+    "nuxt-purgecss": "^1.0.0",
+    "vuelidate": "0.7.5"
+  },
+  "devDependencies": {
+    "@intlify/vue-i18n-loader": "1.0.0",
+    "@nuxtjs/color-mode": "^1.1.1",
+    "@nuxtjs/eslint-config": "3.1.0",
+    "@nuxtjs/eslint-module": "2.0.0",
+    "babel-eslint": "10.1.0",
+    "babel-loader": "8.1.0",
+    "eslint": "7.8.1",
+    "eslint-config-prettier": "6.11.0",
+    "eslint-loader": "4.0.2",
+    "eslint-plugin-nuxt": "1.0.0",
+    "eslint-plugin-prettier": "3.1.4",
+    "eslint-plugin-vue": "6.2.2",
+    "pre-commit": "1.2.2",
+    "webpack": "4.44.1"
+  }
+}
