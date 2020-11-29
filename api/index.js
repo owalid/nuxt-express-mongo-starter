@@ -3,10 +3,10 @@ import helmet from 'helmet'
 import cors from 'cors'
 import bodyParser from 'body-parser'
 import { apiRouter } from './routes/index'
-import { connectDb } from './config/database';
+import { connectDb } from './config/database'
 
 // Connect with db
-connectDb();
+connectDb()
 
 // Create express instance
 const app = express()
