@@ -24,7 +24,7 @@
     "body-parser": "1.19.0",
     "cookieparser": "0.1.0",
     "cors": "2.8.5",
-    "helmet": "4.4.1",
+    "helmet": "4.5.0",
     "lodash": "4.17.21",
     "mongoose": "5.12.4",
     "nuxt": "latest",
