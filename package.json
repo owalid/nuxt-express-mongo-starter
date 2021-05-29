@@ -44,7 +44,7 @@
     "eslint-loader": "4.0.2",
     "eslint-plugin-nuxt": "2.0.0",
     "eslint-plugin-prettier": "3.4.0",
-    "eslint-plugin-vue": "7.9.0",
+    "eslint-plugin-vue": "7.10.0",
     "pre-commit": "1.2.2",
     "webpack": "5.37.0"
   }
