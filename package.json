@@ -46,6 +46,6 @@
     "eslint-plugin-prettier": "3.4.0",
     "eslint-plugin-vue": "7.12.1",
     "pre-commit": "1.2.2",
-    "webpack": "5.39.1"
+    "webpack": "5.41.0"
   }
 }
