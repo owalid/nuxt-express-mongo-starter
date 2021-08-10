@@ -33,7 +33,7 @@
     "vuelidate": "0.7.6"
   },
   "devDependencies": {
-    "@intlify/vue-i18n-loader": "2.1.2",
+    "@intlify/vue-i18n-loader": "3.0.0",
     "@nuxtjs/color-mode": "2.0.10",
     "@nuxtjs/eslint-config": "6.0.1",
     "@nuxtjs/eslint-module": "3.0.2",
