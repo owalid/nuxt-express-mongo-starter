@@ -28,7 +28,7 @@
     "lodash": "4.17.21",
     "mongoose": "5.13.0",
     "nuxt": "latest",
-    "nuxt-i18n": "6.27.3",
+    "nuxt-i18n": "6.28.1",
     "nuxt-purgecss": "1.0.0",
     "vuelidate": "0.7.6"
   },
