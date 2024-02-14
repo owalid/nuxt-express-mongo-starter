@@ -42,7 +42,7 @@
     "nuxt-purgecss": "1.0.0",
     "pre-commit": "1.2.2",
     "vuelidate": "0.7.6",
-    "vuetify": "2.6.6"
+    "vuetify": "2.7.2"
   },
   "devDependencies": {
     "@babel/eslint-parser": "7.15.8",
